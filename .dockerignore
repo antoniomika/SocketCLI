@@ -1,0 +1,13 @@
+/.dockerignore
+/Dockerfile
+/Dockerfile.buildkit
+/.git/
+/.github/
+/.gitignore
+/.goreleaser.yml
+/deploy/
+/dist/
+/socketcli
+/.vscode/
+/__debug_bin
+/.DS_Store

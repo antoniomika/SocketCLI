@@ -1,0 +1,9 @@
+version: '3.7'
+
+services:
+  socketcli:
+    image: antoniomika/socketcli:latest
+    container_name: socketcli
+    command: |
+      --stop-after
+    restart: always
